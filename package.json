@@ -1,0 +1,25 @@
+{
+  "contributors": [
+    {
+      "name": "Mathis Keller",
+      "email": "keller@intuity.com"
+    }
+  ],
+  "dependencies": {
+    "compare-func": "1.3.1",
+    "q": "1.5.1"
+  },
+  "description": "conventional-changelog designsystem preset",
+  "keywords": [
+    "conventional-changelog",
+    "designsystem",
+    "preset"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "conventional-changelog-designsystem",
+  "version": "0.0.0",
+  "devDependencies": {
+    "roboter": "1.0.4"
+  }
+}
