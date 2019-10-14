@@ -4,7 +4,6 @@
 
 This convention is used for git based DesignSystems and Design Specifications.
 
-
 ## License
 
 The MIT License (MIT)

@@ -18,7 +18,7 @@
   "license": "MIT",
   "main": "index.js",
   "name": "conventional-changelog-designsystem",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "devDependencies": {
     "roboter": "8.1.2"
   }
